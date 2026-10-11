@@ -1,0 +1,17 @@
+{
+  "type": "list",
+  "headline": "Lampa",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,4,3",
+    "color": "msx-glass"
+  },
+  "items": [
+    {
+      "title": "Lampa",
+      "titleFooter": "Каталог фильмов и сериалов",
+      "icon": "movie",
+      "action": "link:http://lampa.mx"
+    }
+  ]
+}
